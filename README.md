@@ -45,7 +45,7 @@ Enter `GOOG` in the input box:
 
 3. **Model Training**  
    - Uses an LSTM layer with 60 units
-   - Trains with `epochs=10` and `batch_size=32`
+   - Trains with `epochs=100` and `batch_size=32`
    - Loss function: Mean Squared Error (MSE)
 
 4. **Prediction**  
