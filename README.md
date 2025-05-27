@@ -69,18 +69,3 @@ Enter `GOOG` in the input box:
 - scikit-learn
 - TensorFlow / Keras
 
----
-
-## 📥 Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/KushAmbre/stock-lstm-app.git
-cd stock-lstm-app
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the Streamlit app
-streamlit run app.py
-
