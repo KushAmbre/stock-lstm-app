@@ -16,10 +16,10 @@ This project demonstrates how to use **Long Short-Term Memory (LSTM)** neural ne
 
 ---
 
-## 📂 Project Structure
-├── app.py # Streamlit application
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+<pre lang="markdown"> ## 📂 Project Structure  
+     ├── app.py : Streamlit application 
+     ├── requirements.txt : Python dependencies 
+     └── README.md : Project documentation</pre>
 
 ---
 
