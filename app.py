@@ -45,7 +45,7 @@ if symbol:
 
             # LSTM Model
             model = Sequential([
-                LSTM(60, activation='relu', input_shape=(n_steps, 1)),
+                LSTM(60, activation='tanh', input_shape=(n_steps, 1)),
                 Dense(1)
             ])
             model.compile(optimizer='adam', loss='mse')
